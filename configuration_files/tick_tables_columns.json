@@ -1,0 +1,6913 @@
+[
+  {
+    "TKQKBN": "E",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "E",
+    "TKTYPE": 4,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXV",
+        "COLUMN": "RCMFXV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXV:T",
+        "COLUMN": "RCMFXV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXJ",
+        "COLUMN": "RCMFXJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXJ:T",
+        "COLUMN": "RCMFXJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDV",
+        "COLUMN": "RCMFDV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDV:T",
+        "COLUMN": "RCMFDV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDJ",
+        "COLUMN": "RCMFDJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDJ:T",
+        "COLUMN": "RCMFDJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "E",
+    "TKTYPE": 5,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "BSIV",
+        "COLUMN": "BSIV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BSIV:T",
+        "COLUMN": "BSIV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLL",
+        "COLUMN": "IVLL",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLL:T",
+        "COLUMN": "IVLL_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVL1",
+        "COLUMN": "IVL1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVL1:T",
+        "COLUMN": "IVL1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IDL1",
+        "COLUMN": "IDL1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IDL1:T",
+        "COLUMN": "IDL1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IGM1",
+        "COLUMN": "IGM1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IGM1:T",
+        "COLUMN": "IGM1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ITE1",
+        "COLUMN": "ITE1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ITE1:T",
+        "COLUMN": "ITE1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVG1",
+        "COLUMN": "IVG1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVG1:T",
+        "COLUMN": "IVG1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLA",
+        "COLUMN": "IVLA",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLA:T",
+        "COLUMN": "IVLA_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLB",
+        "COLUMN": "IVLB",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLB:T",
+        "COLUMN": "IVLB_T",
+        "LENGTH": 5
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "D",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "D",
+    "TKTYPE": 4,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXV",
+        "COLUMN": "RCMFXV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXV:T",
+        "COLUMN": "RCMFXV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXJ",
+        "COLUMN": "RCMFXJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXJ:T",
+        "COLUMN": "RCMFXJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDV",
+        "COLUMN": "RCMFDV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDV:T",
+        "COLUMN": "RCMFDV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDJ",
+        "COLUMN": "RCMFDJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDJ:T",
+        "COLUMN": "RCMFDJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "N",
+    "TKTYPE": 4,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXV",
+        "COLUMN": "RCMFXV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXV:T",
+        "COLUMN": "RCMFXV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXJ",
+        "COLUMN": "RCMFXJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXJ:T",
+        "COLUMN": "RCMFXJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDV",
+        "COLUMN": "RCMFDV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDV:T",
+        "COLUMN": "RCMFDV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDJ",
+        "COLUMN": "RCMFDJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDJ:T",
+        "COLUMN": "RCMFDJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "N",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "V",
+    "TKTYPE": 4,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXV",
+        "COLUMN": "RCMFXV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXV:T",
+        "COLUMN": "RCMFXV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXJ",
+        "COLUMN": "RCMFXJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXJ:T",
+        "COLUMN": "RCMFXJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDV",
+        "COLUMN": "RCMFDV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDV:T",
+        "COLUMN": "RCMFDV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDJ",
+        "COLUMN": "RCMFDJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDJ:T",
+        "COLUMN": "RCMFDJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "V",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "G",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "R",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "K",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "F",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "S",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "P",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "M",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "X",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "B",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "N",
+    "TKTYPE": 6,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 15
+      },
+      {
+        "ELEMENT": "RDV",
+        "COLUMN": "RDV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RDV:T",
+        "COLUMN": "RDV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RDJ",
+        "COLUMN": "RDJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RDJ:T",
+        "COLUMN": "RDJ_T",
+        "LENGTH": 5
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "@",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "@@",
+    "TKTYPE": 1,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "ZSS",
+        "COLUMN": "ZSS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPR",
+        "COLUMN": "DPR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPR:T",
+        "COLUMN": "DPR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "NOQ",
+        "COLUMN": "NOQ",
+        "LENGTH": 6
+      },
+      {
+        "ELEMENT": "QAS",
+        "COLUMN": "QAS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAR",
+        "COLUMN": "QAR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAR:T",
+        "COLUMN": "QAR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBS",
+        "COLUMN": "QBS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBR",
+        "COLUMN": "QBR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBR:T",
+        "COLUMN": "QBR_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPCY",
+        "COLUMN": "DPCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCY:T",
+        "COLUMN": "DPCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:S",
+        "COLUMN": "XV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "AV:S",
+        "COLUMN": "AV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "BV:S",
+        "COLUMN": "BV_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "DPP:S",
+        "COLUMN": "DPP_S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "MIDP",
+        "COLUMN": "MIDP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "MIDP:T",
+        "COLUMN": "MIDP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TKZXD",
+        "COLUMN": "TKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "TKTIM",
+        "COLUMN": "TKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "DYWP",
+        "COLUMN": "DYWP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DYWP:T",
+        "COLUMN": "DYWP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DYWR",
+        "COLUMN": "DYWR",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP",
+        "COLUMN": "VWAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "VWAP:T",
+        "COLUMN": "VWAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ABV",
+        "COLUMN": "ABV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ABV:T",
+        "COLUMN": "ABV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AAV",
+        "COLUMN": "AAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AAV:T",
+        "COLUMN": "AAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QOV",
+        "COLUMN": "QOV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QOV:T",
+        "COLUMN": "QOV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QUV",
+        "COLUMN": "QUV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QUV:T",
+        "COLUMN": "QUV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "INAV",
+        "COLUMN": "INAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "INAV:T",
+        "COLUMN": "INAV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IYRP",
+        "COLUMN": "IYRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IYRP:T",
+        "COLUMN": "IYRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IQRP",
+        "COLUMN": "IQRP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IQRP:T",
+        "COLUMN": "IQRP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QACY",
+        "COLUMN": "QACY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QACY:T",
+        "COLUMN": "QACY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBCY",
+        "COLUMN": "QBCY",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBCY:T",
+        "COLUMN": "QBCY_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "NO",
+        "COLUMN": "NO",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NOT",
+        "COLUMN": "NOT",
+        "LENGTH": 24
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "J",
+    "TKTYPE": 3,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "NAME",
+        "COLUMN": "NAME",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NAME:$",
+        "COLUMN": "NAME_ENG",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_QCD",
+        "COLUMN": "J_QCD",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_DQCD",
+        "COLUMN": "J_DQCD",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_NAME",
+        "COLUMN": "J_NAME",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_NAME:$",
+        "COLUMN": "J_NAME_ENG",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_LISS",
+        "COLUMN": "J_LISS",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_PRM",
+        "COLUMN": "J_PRM",
+        "LENGTH": 1
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTP",
+        "COLUMN": "SLTP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLTP:T",
+        "COLUMN": "SLTP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTV",
+        "COLUMN": "SLTV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLB",
+        "COLUMN": "SLB",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLB:T",
+        "COLUMN": "SLB_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLA",
+        "COLUMN": "SLA",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLA:T",
+        "COLUMN": "SLA_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTO",
+        "COLUMN": "SLTO",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLTA",
+        "COLUMN": "SLTA",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLBV",
+        "COLUMN": "SLBV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLAV",
+        "COLUMN": "SLAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLEX",
+        "COLUMN": "SLEX",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLEA",
+        "COLUMN": "SLEA",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLPM",
+        "COLUMN": "SLPM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "CPPE",
+        "COLUMN": "CPPE",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CPPV",
+        "COLUMN": "CPPV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLPV:T",
+        "COLUMN": "SLPV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CDTN",
+        "COLUMN": "CDTN",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CRDL",
+        "COLUMN": "CRDL",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTP:S",
+        "COLUMN": "SLTP:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLPM:S",
+        "COLUMN": "SLPM:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLB:S",
+        "COLUMN": "SLB:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLA:S",
+        "COLUMN": "SLA:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "R",
+    "TKTYPE": 3,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "NAME",
+        "COLUMN": "NAME",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NAME:$",
+        "COLUMN": "NAME_ENG",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_QCD",
+        "COLUMN": "J_QCD",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_DQCD",
+        "COLUMN": "J_DQCD",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_NAME",
+        "COLUMN": "J_NAME",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_NAME:$",
+        "COLUMN": "J_NAME_ENG",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_LISS",
+        "COLUMN": "J_LISS",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_PRM",
+        "COLUMN": "J_PRM",
+        "LENGTH": 1
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTP",
+        "COLUMN": "SLTP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLTP:T",
+        "COLUMN": "SLTP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTV",
+        "COLUMN": "SLTV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLB",
+        "COLUMN": "SLB",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLB:T",
+        "COLUMN": "SLB_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLA",
+        "COLUMN": "SLA",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLA:T",
+        "COLUMN": "SLA_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTO",
+        "COLUMN": "SLTO",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLTA",
+        "COLUMN": "SLTA",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLBV",
+        "COLUMN": "SLBV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLAV",
+        "COLUMN": "SLAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLEX",
+        "COLUMN": "SLEX",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLEA",
+        "COLUMN": "SLEA",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLPM",
+        "COLUMN": "SLPM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "CPPE",
+        "COLUMN": "CPPE",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CPPV",
+        "COLUMN": "CPPV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLPV:T",
+        "COLUMN": "SLPV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CDTN",
+        "COLUMN": "CDTN",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CRDL",
+        "COLUMN": "CRDL",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTP:S",
+        "COLUMN": "SLTP:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLPM:S",
+        "COLUMN": "SLPM:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLB:S",
+        "COLUMN": "SLB:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLA:S",
+        "COLUMN": "SLA:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "R",
+    "TKTYPE": 4,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXV",
+        "COLUMN": "RCMFXV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXV:T",
+        "COLUMN": "RCMFXV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFXJ",
+        "COLUMN": "RCMFXJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFXJ:T",
+        "COLUMN": "RCMFXJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDV",
+        "COLUMN": "RCMFDV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDV:T",
+        "COLUMN": "RCMFDV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "RCMFDJ",
+        "COLUMN": "RCMFDJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "RCMFDJ:T",
+        "COLUMN": "RCMFDJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "R",
+    "TKTYPE": 5,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "BSIV",
+        "COLUMN": "BSIV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BSIV:T",
+        "COLUMN": "BSIV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLL",
+        "COLUMN": "IVLL",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLL:T",
+        "COLUMN": "IVLL_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVL1",
+        "COLUMN": "IVL1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVL1:T",
+        "COLUMN": "IVL1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IDL1",
+        "COLUMN": "IDL1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IDL1:T",
+        "COLUMN": "IDL1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IGM1",
+        "COLUMN": "IGM1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IGM1:T",
+        "COLUMN": "IGM1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ITE1",
+        "COLUMN": "ITE1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ITE1:T",
+        "COLUMN": "ITE1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVG1",
+        "COLUMN": "IVG1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVG1:T",
+        "COLUMN": "IVG1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLA",
+        "COLUMN": "IVLA",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLA:T",
+        "COLUMN": "IVLA_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLB",
+        "COLUMN": "IVLB",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLB:T",
+        "COLUMN": "IVLB_T",
+        "LENGTH": 5
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "N",
+    "TKTYPE": 5,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "xxxx:T",
+        "COLUMN": "xxxx_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "HTKZXD",
+        "COLUMN": "HTKZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "HTKTIM",
+        "COLUMN": "HTKTIM",
+        "LENGTH": 12
+      },
+      {
+        "ELEMENT": "BSIV",
+        "COLUMN": "BSIV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BSIV:T",
+        "COLUMN": "BSIV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLL",
+        "COLUMN": "IVLL",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLL:T",
+        "COLUMN": "IVLL_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVL1",
+        "COLUMN": "IVL1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVL1:T",
+        "COLUMN": "IVL1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IDL1",
+        "COLUMN": "IDL1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IDL1:T",
+        "COLUMN": "IDL1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IGM1",
+        "COLUMN": "IGM1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IGM1:T",
+        "COLUMN": "IGM1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "ITE1",
+        "COLUMN": "ITE1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "ITE1:T",
+        "COLUMN": "ITE1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVG1",
+        "COLUMN": "IVG1",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVG1:T",
+        "COLUMN": "IVG1_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLA",
+        "COLUMN": "IVLA",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLA:T",
+        "COLUMN": "IVLA_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "IVLB",
+        "COLUMN": "IVLB",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "IVLB:T",
+        "COLUMN": "IVLB_T",
+        "LENGTH": 5
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  },
+  {
+    "TKQKBN": "N",
+    "TKTYPE": 3,
+    "TKELEMENTS": [
+      {
+        "ELEMENT": "NAME",
+        "COLUMN": "NAME",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "NAME:$",
+        "COLUMN": "NAME_ENG",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_QCD",
+        "COLUMN": "J_QCD",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_DQCD",
+        "COLUMN": "J_DQCD",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_NAME",
+        "COLUMN": "J_NAME",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_NAME:$",
+        "COLUMN": "J_NAME_ENG",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "J_SNDC",
+        "COLUMN": "J_SNDC",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "J_LISS",
+        "COLUMN": "J_LISS",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "J_PRM",
+        "COLUMN": "J_PRM",
+        "LENGTH": 1
+      },
+      {
+        "ELEMENT": "J_ZXD",
+        "COLUMN": "J_ZXD",
+        "LENGTH": 10
+      },
+      {
+        "ELEMENT": "NOPV",
+        "COLUMN": "NOPV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP",
+        "COLUMN": "DPP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPP:T",
+        "COLUMN": "DPP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "DPS",
+        "COLUMN": "DPS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "DPS:T",
+        "COLUMN": "DPS_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "XV",
+        "COLUMN": "XV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XV:T",
+        "COLUMN": "XV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QAP",
+        "COLUMN": "QAP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QAP:T",
+        "COLUMN": "QAP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "AV",
+        "COLUMN": "AV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "AV:T",
+        "COLUMN": "AV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "QBP",
+        "COLUMN": "QBP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "QBP:T",
+        "COLUMN": "QBP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "BV",
+        "COLUMN": "BV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "BV:T",
+        "COLUMN": "BV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTP",
+        "COLUMN": "SLTP",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLTP:T",
+        "COLUMN": "SLTP_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTV",
+        "COLUMN": "SLTV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLB",
+        "COLUMN": "SLB",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLB:T",
+        "COLUMN": "SLB_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLA",
+        "COLUMN": "SLA",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLA:T",
+        "COLUMN": "SLA_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTO",
+        "COLUMN": "SLTO",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLTA",
+        "COLUMN": "SLTA",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLBV",
+        "COLUMN": "SLBV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLAV",
+        "COLUMN": "SLAV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "SLEX",
+        "COLUMN": "SLEX",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLEA",
+        "COLUMN": "SLEA",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLPM",
+        "COLUMN": "SLPM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ",
+        "COLUMN": "XJ",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "XJ:T",
+        "COLUMN": "XJ_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "CPPE",
+        "COLUMN": "CPPE",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CPPV",
+        "COLUMN": "CPPV",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "DPCF",
+        "COLUMN": "DPCF",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "JQCS",
+        "COLUMN": "JQCS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "JQJS",
+        "COLUMN": "JQJS",
+        "LENGTH": 4
+      },
+      {
+        "ELEMENT": "SLPV:T",
+        "COLUMN": "SLPV_T",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "TLNM",
+        "COLUMN": "TLNM",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CDTN",
+        "COLUMN": "CDTN",
+        "LENGTH": 24
+      },
+      {
+        "ELEMENT": "CRDL",
+        "COLUMN": "CRDL",
+        "LENGTH": 5
+      },
+      {
+        "ELEMENT": "SLTP:S",
+        "COLUMN": "SLTP:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLPM:S",
+        "COLUMN": "SLPM:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLB:S",
+        "COLUMN": "SLB:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "SLA:S",
+        "COLUMN": "SLA:S",
+        "LENGTH": 8
+      },
+      {
+        "ELEMENT": "TSTF",
+        "COLUMN": "TSTF",
+        "LENGTH": 4
+      }
+    ],
+    "TKSTART_DATE": "2022/05/10",
+    "TKEND_DATE": ""
+  }
+]

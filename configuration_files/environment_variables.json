@@ -1,0 +1,105 @@
+{
+  "TickSystem": {
+    "TK_SYSTEM_PORTS": [
+      {
+        "TK_SYSTEM_PORT_NO": 9000,
+        "TK_SYSTEM_RESPONSE_THREAD_NUMBER": 60,
+        "DB_KEYS": [
+          1,
+          2
+        ]
+      },
+      {
+        "TK_SYSTEM_PORT_NO": 9001,
+        "TK_SYSTEM_RESPONSE_THREAD_NUMBER": 20,
+        "DB_KEYS": [
+          1
+        ]
+      },
+      {
+        "TK_SYSTEM_PORT_NO": 9002,
+        "TK_SYSTEM_RESPONSE_THREAD_NUMBER": 20,
+        "DB_KEYS": [
+          2
+        ]
+      }
+    ],
+    "TK_SYSTEM_CMD_PORT": 8088,
+    "TK_SYSTEM_RESPONSE_THREAD_NUMBER": 100,
+    "TK_SYSTEM_LENGTH_OF_QUEUE": 100000,
+    "TK_SYSTEM_CONNECT_RETRY_TIMES": 3,
+    "TK_SYSTEM_CONNECT_RETRY_WAIT_MS": 3000,
+    "TK_SYSTEM_MAX_DATE_NUMBER": 10,
+    "TK_SYSTEM_MAX_RECORD_NUMBER": 51222,
+    "TK_SYSTEM_MAX_DATE_NUMBER_SPECIFIED": 2,
+    "TK_SYSTEM_MAX_DATE_FROM_TO": 90,
+    "TK_SYSTEM_MINUTES": "1,3,5,11,13,15,10,31,33,35,30,41,43,45,40,61,63,65,60",
+    "TK_SYSTEM_CHECK_LIST_SHOW_NOPV_NOQ": [
+      "BSIV",
+      "IVLL",
+      "IVL1",
+      "IDL1",
+      "IGM1",
+      "ITE1",
+      "IVG1",
+      "IVLA",
+      "IVLB"
+    ],
+    "TK_SYSTEM_ONE_MINUTE_ELEMENTS_WITHOUT_MF": [
+      "DOP",
+      "DOR",
+      "DHP",
+      "DHR",
+      "DLP",
+      "DLR",
+      "DPP",
+      "DPR",
+      "DV",
+      "QAP",
+      "QAR",
+      "QAS",
+      "QBP",
+      "QBR",
+      "QBS"
+    ],
+    "TK_SYSTEM_ONE_MINUTE_ELEMENTS_WITH_MF": [
+      "DOP",
+      "DOR",
+      "DHP",
+      "DHR",
+      "DLP",
+      "DLR",
+      "DPP",
+      "DPR",
+      "DV",
+      "QAP",
+      "QAR",
+      "QAS",
+      "QBP",
+      "QBR",
+      "QBS",
+      "RCMFXJ",
+      "RCMFDJ"
+    ],
+    "TK_SYSTEM_ROUTINES_HANDLE_ONE_MINUTE": 10,
+    "TK_SYSTEM_MAX_OFFSET": 1000000,
+    "TK_SYSTEM_BUCKET_NAME": "tck-app-receive",
+    "TK_SYSTEM_REGION": "ap-northeast-1",
+    "TK_SYSTEM_SHARE_INFORMATION_OBJECT": "configuration_files/common_variables.json",
+    "TK_SYSTEM_ENDPOINT_INFORMATION_OBJECT": [
+      {
+        "DB_TYPE": 1,
+        "DB_INFO_PATH": "configuration_files/quote_code_definition_tick.json"
+      },
+      {
+        "DB_TYPE": 2,
+        "DB_INFO_PATH": "configuration_files/quote_code_definition_keihai.json"
+      }
+    ],
+    "TK_SYSTEM_DELAY_TIME_INFORMATION_OBJECT": "configuration_files/config_delay_time.json",
+    "TK_SYSTEM_RESPONSE_TABLE_OBJECT": "configuration_files/tick_tables_columns.json",
+    "TK_SYSTEM_RESPONSE_MAPPING_COLUMNS_OBJECT": "configuration_files/mapping_columns.json",
+    "TK_SYSTEM_RESPONSE_ONE_MINUTE_OBJECT": "configuration_files/one_minute_columns.json",
+    "TK_SYSTEM_DEVELOP_ENVIRONMENT": false
+  }
+}

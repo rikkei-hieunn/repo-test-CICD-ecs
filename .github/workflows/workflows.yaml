@@ -1,0 +1,76 @@
+# ************** Workflow description **************
+# Trigger:
+#   - push
+# Jobs:
+#   - Run CI (lint -> test)
+# **************************************************
+
+name: CI-CD-Workflows
+
+on:
+  push:
+
+jobs:
+  # **************************************************
+  # -------------------- Run CI----------------------*
+  # **************************************************
+  run-ci:
+    # Run on github Ubuntu Linux VM
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out source code
+      - name: Check out source code
+        uses: actions/checkout@v3
+      # Setup Golang-lint and run Golang-lint
+      - name: golangci-lint
+        uses: golangci/golangci-lint-action@v3
+        with:
+          # Required: the version of golangci-lint is required and must be specified without patch version: we always use the latest patch version.
+          version: v1.44
+      # Run UT test
+      - name: Run unit test scripts
+        # Recursive run all *_test.go file
+        run: go test -v ./...
+
+  # **************************************************
+  # -------------------- Run CD----------------------*
+  # **************************************************
+  run-cd:
+    # Depend on CI job
+    needs: run-ci
+    # Only run this job when trigger came from main
+    if: contains('refs/heads/main;', github.ref)
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      DEPLOY_S3_REGION: ap-northeast-1
+      DEPLOY_S3_BUCKET_NAME:
+
+
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Prepare variables
+        id: vars
+        run: |
+          echo "::set-output name=git_sha_short::$(git rev-parse --short HEAD)"
+          echo "::set-output name=current_date::$(date +'%Y-%m-%d')"
+
+      - name: Configure AWS Credentials for main
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-region: ${{env.DEPLOY_S3_REGION}}
+          role-to-assume: ${{ secrets.AWS_ASSUME_ROLE_ARN }}
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          role-duration-seconds: 1200
+
+      - name: Upload to S3
+        run: |
+          aws s3 sync configuration_files/ s3://bucket-for-test-cicd/configuration_files/
+
+# End

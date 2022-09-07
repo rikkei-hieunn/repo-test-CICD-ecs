@@ -1,0 +1,556 @@
+{
+  "DOR": {
+    "CONDITION": "Open",
+    "COLUMN_DATA": "DPR",
+    "COLUMN_TIME": "DPR_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DOP": {
+    "CONDITION": "Open",
+    "COLUMN_DATA": "DPP",
+    "COLUMN_TIME": "DPP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DHP": {
+    "CONDITION": "High",
+    "COLUMN_DATA": "DPP",
+    "COLUMN_TIME": "DPP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DHR": {
+    "CONDITION": "High",
+    "COLUMN_DATA": "DPR",
+    "COLUMN_TIME": "DPR_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DLP": {
+    "CONDITION": "Low",
+    "COLUMN_DATA": "DPP",
+    "COLUMN_TIME": "DPP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DLR": {
+    "CONDITION": "Low",
+    "COLUMN_DATA": "DPR",
+    "COLUMN_TIME": "DPR_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DPP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DPP",
+    "COLUMN_TIME": "DPP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DPR": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DPR",
+    "COLUMN_TIME": "DPR_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "QAP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QAP",
+    "COLUMN_TIME": "QAP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "QAR": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QAR",
+    "COLUMN_TIME": "QAR_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "QAS": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QAS",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "QBP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QBP",
+    "COLUMN_TIME": "QBP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "QBR": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QBR",
+    "COLUMN_TIME": "QBR_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "QBS": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QBS",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "RCMFXJ": {
+    "CONDITION": "Sum",
+    "COLUMN_DATA": "RCMFXJ",
+    "COLUMN_TIME": "RCMFXJ_T",
+    "PREFIX": 4,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD",
+    "TYPE": [
+      "1"
+    ]
+  },
+  "RCMFDJ": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "RCMFDJ",
+    "COLUMN_TIME": "RCMFDJ_T",
+    "PREFIX": 4,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD",
+    "TYPE": [
+      "1"
+    ]
+  },
+  "DV": {
+    "CONDITION": "Sum",
+    "COLUMN_DATA": "XV",
+    "COLUMN_TIME": "XV_T",
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "PREFIX": 1,
+    "TYPE": [
+      "0",
+      "1"
+    ]
+  },
+  "DOCY": {
+    "CONDITION": "Open",
+    "COLUMN_DATA": "DPCY",
+    "COLUMN_TIME": "DPCY_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "DHCY": {
+    "CONDITION": "High",
+    "COLUMN_DATA": "DPCY",
+    "COLUMN_TIME": "DPCY_T",
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "PREFIX": 1
+  },
+  "DLCY": {
+    "CONDITION": "Low",
+    "COLUMN_DATA": "DPCY",
+    "COLUMN_TIME": "DPCY_T",
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "PREFIX": 1
+  },
+  "DPCY": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DPCY",
+    "COLUMN_TIME": "DPCY_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "NOPV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "NOPV",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "ZSS": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "ZSS",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "DPS": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DPS",
+    "COLUMN_TIME": "DPS_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "NOQ": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "NOQ",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "AV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "AV",
+    "COLUMN_TIME": "AV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "BV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "BV",
+    "COLUMN_TIME": "BV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "J_SNDC": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "J_SNDC",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "DJ": {
+    "CONDITION": "Sum",
+    "COLUMN_DATA": "XJ",
+    "COLUMN_TIME": "XJ_T",
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "PREFIX": 1
+  },
+  "DPCF": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DPCF",
+    "COLUMN_TIME": "TIME",
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD",
+    "PREFIX": 1
+  },
+  "JQCS": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "JQCS",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "JQJS": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "JQJS",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "TLNM": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "TLNM",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "J_ZXD": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "J_ZXD",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "MIDP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "MIDP",
+    "COLUMN_TIME": "MIDP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "DYWP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DYWP",
+    "COLUMN_TIME": "DYWP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "DYWR": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "DYWR",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "VWAP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "VWAP",
+    "COLUMN_TIME": "VWAP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "ABV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "ABV",
+    "COLUMN_TIME": "ABV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "AAV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "AAV",
+    "COLUMN_TIME": "AAV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "QOV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QOV",
+    "COLUMN_TIME": "QOV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "QUV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QUV",
+    "COLUMN_TIME": "QUV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "INAV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "INAV",
+    "COLUMN_TIME": "INAV_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "IYRP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IYRP",
+    "COLUMN_TIME": "IYRP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "IQRP": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IQRP",
+    "COLUMN_TIME": "IQRP_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "QACY": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QAVY",
+    "COLUMN_TIME": "QAVY_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "QBCY": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "QBCY",
+    "COLUMN_TIME": "QBCY_T",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "TSTF": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "TSTF",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "NO": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "NO",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "NOT": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "NOT",
+    "COLUMN_TIME": "TIME",
+    "PREFIX": 1,
+    "FULL_TIME": "TKTIM",
+    "DATE": "TKZXD"
+  },
+  "BSIV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "BSIV",
+    "COLUMN_TIME": "BSIV_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IVLL": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IVLL",
+    "COLUMN_TIME": "IVLL_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IVL1": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IVL1",
+    "COLUMN_TIME": "IVL1_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IDL1": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IDL1",
+    "COLUMN_TIME": "IDL1_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IGM1": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IGM1",
+    "COLUMN_TIME": "IGM1_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "ITE1": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "ITE1",
+    "COLUMN_TIME": "ITE1_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IVG1": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IVG1",
+    "COLUMN_TIME": "IVG1_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IVLA": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IVLA",
+    "COLUMN_TIME": "IVLA_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "IVLB": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "IVLB",
+    "COLUMN_TIME": "IVLB_T",
+    "PREFIX": 5,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "RDV": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "RDV",
+    "COLUMN_TIME": "RDV_T",
+    "PREFIX": 6,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  },
+  "RDJ": {
+    "CONDITION": "Close",
+    "COLUMN_DATA": "RDJ",
+    "COLUMN_TIME": "RDJ_T",
+    "PREFIX": 6,
+    "FULL_TIME": "HTKTIM",
+    "DATE": "HTKZXD"
+  }
+}
